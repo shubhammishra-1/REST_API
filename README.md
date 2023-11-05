@@ -1,7 +1,7 @@
 <h3>I build a REST API in Go</h3>
 >CRUD operations can be performed using this API
 
->Server is running on #### PORT = 9000
+>Server is running on PORT = 9000
 
 <h4>4 End Points of this API are</h4>
 <ul>
