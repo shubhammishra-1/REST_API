@@ -3,7 +3,7 @@
 
 >Server is running on PORT = 9000
 
-<h4>4 End Points of this API are</h4>
+<h4>End Points of this API are</h4>
 <ul>
   <li>9000/home</li>
   >home page of this API
